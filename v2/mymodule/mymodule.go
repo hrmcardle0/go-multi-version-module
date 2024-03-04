@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func ModuleFunc() string {
-	fmt.Println("Module  called!")
+func ModuleFuncv2() string {
+	fmt.Println("Module v2 called!")
 	return "Module returning"
 }
